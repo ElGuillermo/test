@@ -41,7 +41,7 @@ An extended RCON tool for [Hell Let Loose](https://www.hellletloose.com/), meant
         <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Developer-Guides-%E2%80%90-CRCON-API">CRCON API</a>
       </td>
       <td valign="top" nowrap>
-        <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Help-%E2%80%90-Common-issues-and-their-solutions">Common issues and their solutions</a><br />
+        <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Help-%E2%80%90-Common-issues-and-their-solutions">Common issues</a><br />
         <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Help-%E2%80%90-Report-an-issue">Report an issue</a>
       </td>
     </tr>
