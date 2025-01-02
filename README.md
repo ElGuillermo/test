@@ -25,22 +25,22 @@ An extended RCON tool for [Hell Let Loose](https://www.hellletloose.com/), meant
     </tr>
     <tr>
       <td valign="top" nowrap>
-        - <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Getting-Started-%E2%80%90-Presentation-and-features">Presentation and features</a><br />
-        - <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Getting-Started-%E2%80%90-Requirements">Requirements</a><br />
-        - <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Getting-Started-%E2%80%90-Installation#installing-crcon">Installation</a>
+        ● <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Getting-Started-%E2%80%90-Presentation-and-features">Presentation and features</a><br />
+        ● <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Getting-Started-%E2%80%90-Requirements">Requirements</a><br />
+        ● <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Getting-Started-%E2%80%90-Installation#installing-crcon">Installation</a>
       </td>
       <td valign="top" nowrap>
-        - <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/User-Guide-%E2%80%90-main-interface-%E2%80%90-Home">Main interface</a><br />
-        - <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/User-Guide-%E2%80%90-Admin-panel">Admin panel</a>
+        ● <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/User-Guide-%E2%80%90-main-interface-%E2%80%90-Home">Main interface</a><br />
+        ● <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/User-Guide-%E2%80%90-Admin-panel">Admin panel</a>
       </td>
       <td valign="top" nowrap>
-        - <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Developer-Guides-%E2%80%90-Building-your-own-Docker-images">Building your own Docker images</a><br />
-        - <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Developer-Guides-%E2%80%90-Development-environment">Development environment</a><br />
-        - <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Developer-Guides-%E2%80%90-CRCON-API">CRCON API</a>
+        ● <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Developer-Guides-%E2%80%90-Building-your-own-Docker-images">Building your own Docker images</a><br />
+        ● <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Developer-Guides-%E2%80%90-Development-environment">Development environment</a><br />
+        ● <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Developer-Guides-%E2%80%90-CRCON-API">CRCON API</a>
       </td>
       <td valign="top" nowrap>
-        - <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Help-%E2%80%90-Common-issues-and-their-solutions">Common issues</a><br />
-        - <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Help-%E2%80%90-Report-an-issue">Report an issue</a>
+        ● <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Help-%E2%80%90-Common-issues-and-their-solutions">Common issues</a><br />
+        ● <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Help-%E2%80%90-Report-an-issue">Report an issue</a>
       </td>
     </tr>
   </tbody>
