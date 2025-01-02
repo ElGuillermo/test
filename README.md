@@ -34,7 +34,7 @@ An extended RCON tool for [Hell Let Loose](https://www.hellletloose.com/), meant
         ● <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/User-Guide-%E2%80%90-Admin-panel">Admin panel</a>
       </td>
       <td valign="top" nowrap>
-        ● <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Developer-Guides-%E2%80%90-Building-your-own-Docker-images">Building your own Docker images</a><br />
+        ● <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Developer-Guides-%E2%80%90-Building-your-own-Docker-images">Build your own Docker images</a><br />
         ● <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Developer-Guides-%E2%80%90-Development-environment">Development environment</a><br />
         ● <a href="https://github.com/MarechJ/hll_rcon_tool/wiki/Developer-Guides-%E2%80%90-CRCON-API">CRCON API</a>
       </td>
