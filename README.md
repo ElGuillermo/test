@@ -13,8 +13,6 @@ An extended RCON tool for [Hell Let Loose](https://www.hellletloose.com/), meant
 
 ![Live view](https://github.com/user-attachments/assets/7178e14e-2f0c-4f32-99fb-7a42568fba85)
 
-![Live view](/images/README_Views_Live_2024-12-27.png)
-
 ## Documentation
 
 <table>
